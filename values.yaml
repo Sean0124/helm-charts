@@ -21,7 +21,7 @@ podSecurityContext: {}
   # fsGroup: 2000
 
 securityContext:
-  privileged: true
+  # privileged: true
   # capabilities:
   #   drop:
   #   - ALL
@@ -46,7 +46,7 @@ resources: {}
   # requests:
   #   cpu: 100m
   #   memory: 128Mi
-  
+
 persistentVolumeClaim:
   enabled: ture
   # claimName: 
