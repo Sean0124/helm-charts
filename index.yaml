@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dind:
+  - apiVersion: v2
+    appVersion: 27.2.1-dind
+    created: "2024-09-11T06:35:51.85741221Z"
+    description: A Helm chart for Kubernetes
+    digest: e88ab4cc29122e11ce9fd919887c1771da1c473b932bd358f494173253fa9cf8
+    name: dind
+    type: application
+    urls:
+    - https://github.com/Sean0124/helm-charts/releases/download/dind-0.1.0/dind-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-11T06:35:51.85741712Z"
